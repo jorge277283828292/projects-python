@@ -6,17 +6,31 @@ Este repositorio contiene una colección de proyectos desarrollados en **Python*
 
 - 🔢 `adivinar_numero` – Juego para adivinar un número aleatorio.
 - 🐾 `animales` – Proyecto con manejo de listas y condicionales.
-- 📐 `area_circulo`, `area_rectangulo`, `volumen_cilindro` – Cálculos geométricos.
-- 🧾 `automatriz_word` – Simulación de llenado automático de datos.
+- 📐 `area_circulo` – Cálculo del área de un círculo.
+- 📐 `area_rectangulo` – Cálculo del área de un rectángulo.
+- 📐 `volumen_cilindro` – Cálculo del volumen de un cilindro.
+- 🧾 `automatriz_word` – Simulación de llenado automático de datos en Word.
 - 🔄 `bisiesto` – Verifica si un año es bisiesto.
-- 🧮 `calculadora`, `calcular_imc`, `numero_factorial`, `promedio_lista`, `tabla_multiplicar` – Proyectos matemáticos básicos.
-- 🔤 `caracter_especifico` – Manipulación de cadenas.
-- 📦 `componentes_pc` – Información sobre componentes de hardware.
-- 📄 `contenido_archivo`, `crear_archivos`, `generador_pdf` – Lectura y escritura de archivos.
-- 🧠 `duplicados_lista`, `palindromo`, `numero_random`, `promedio_lista` – Ejercicios de lógica.
+- 🧮 `calculadora` – Calculadora básica.
+- 🧮 `calcular_imc` – Calcula el índice de masa corporal.
+- 🧮 `numero_factorial` – Calcula el factorial de un número.
+- 🧮 `promedio_lista` – Calcula el promedio de una lista de números.
+- 🧮 `tabla_multiplicar` – Muestra la tabla de multiplicar de un número.
+- 🔤 `caracter_especifico` – Manipulación de cadenas y búsqueda de caracteres.
+- 📦 `componentes_pc` – Información sobre componentes de hardware de PC.
+- 📄 `contenido_archivo` – Lectura del contenido de un archivo.
+- 📄 `crear_archivos` – Crea archivos de texto.
+- 📄 `generador_pdf` – Genera archivos PDF.
+- 🧠 `duplicados_lista` – Encuentra duplicados en una lista.
+- 🧠 `palindromo` – Verifica si una palabra es palíndroma.
+- 🧠 `numero_random` – Genera números aleatorios.
 - 🔐 `generador_contrasenas` – Generador aleatorio de contraseñas seguras.
-- 🧍 `personas`, `piedra_papel_tijera` – Simulación de interacción con el usuario.
-- 🔢 `elevacion_al_cuadrado` – Operaciones matemáticas básicas.
+- 🧍 `personas` – Gestión de datos de personas.
+- 🧍 `piedra_papel_tijera` – Juego de piedra, papel o tijera.
+- 🔢 `elevacion_al_cuadrado` – Eleva un número al cuadrado.
+- 📚 `menu_bibliotecas` – Menú interactivo para gestión de bibliotecas.
+- ✅ `tareas` – Administrador de tareas.
+- 💰 `gestor_dinero` – Gestor de dinero personal.
 
 ## 🎯 Objetivo
 
