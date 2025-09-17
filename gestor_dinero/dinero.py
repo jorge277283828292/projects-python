@@ -1,1 +1,2 @@
-dineroTotal = []
+dineroTotal = 0
+historial = []

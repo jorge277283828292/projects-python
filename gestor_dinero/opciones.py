@@ -5,4 +5,5 @@ def mostrar_opciones():
     print("4. Consultar saldo actual")
     print("5. Ver historial de movimientos")
     print("6. Ver gráficas")
-    print("7. Salir")
+    print("7. Imprimir reporte")
+    print("8. Salir")
