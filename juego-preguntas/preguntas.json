@@ -1,0 +1,102 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["A) Madrid", "B) París", "C) Roma"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Cuánto es 12 x 8?",
+    "opciones": ["A) 96", "B) 84", "C) 108"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "opciones": ["A) Leonardo da Vinci", "B) Pablo Picasso", "C) Miguel Ángel"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": ["A) Saturno", "B) Júpiter", "C) Neptuno"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿En qué continente está Egipto?",
+    "opciones": ["A) África", "B) Asia", "C) Europa"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "opciones": ["A) 206", "B) 201", "C) 210"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["A) Amazonas", "B) Nilo", "C) Yangtsé"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "opciones": ["A) Miguel de Cervantes", "B) Gabriel García Márquez", "C) Lope de Vega"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+    "opciones": ["A) Inglés", "B) Chino mandarín", "C) Español"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el metal cuyo símbolo químico es Au?",
+    "opciones": ["A) Plata", "B) Oro", "C) Aluminio"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "opciones": ["A) 1969", "B) 1975", "C) 1965"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo?",
+    "opciones": ["A) Rusia", "B) Canadá", "C) China"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Qué significa 'CPU' en informática?",
+    "opciones": ["A) Central Process Unit", "B) Central Processing Unit", "C) Computer Personal Unit"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Quién desarrolló la teoría de la relatividad?",
+    "opciones": ["A) Isaac Newton", "B) Albert Einstein", "C) Nikola Tesla"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Japón?",
+    "opciones": ["A) Tokio", "B) Kioto", "C) Osaka"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "opciones": ["A) Atlántico", "B) Índico", "C) Pacífico"],
+    "respuesta": "C"
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso por el cual las plantas producen alimento?",
+    "opciones": ["A) Fotosíntesis", "B) Respiración", "C) Fermentación"],
+    "respuesta": "A"
+  },
+  {
+    "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+    "opciones": ["A) Thomas Jefferson", "B) George Washington", "C) Abraham Lincoln"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Qué significa la palabra inglesa 'house'?",
+    "opciones": ["A) Perro", "B) Casa", "C) Caballo"],
+    "respuesta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 15 ÷ 3?",
+    "opciones": ["A) 4", "B) 5", "C) 6"],
+    "respuesta": "B"
+  }
+]
