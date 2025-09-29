@@ -50,7 +50,7 @@ while True:
         r.shuffle(contraseña)
 
         contraseña_final = ''.join(contraseña)
-        print(f"\n🔐 Tu contraseña generada es:, {contraseña_final}")
+        print(f"\n🔐 Tu contraseña generada es: {contraseña_final}")
         break
     else:
         print("Lo siento, opcion invalida")
